@@ -18,7 +18,7 @@ This server exposes the following tools via MCP:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/deepl-mcp-server.git # Replace with the actual repository URL
+    git clone https://github.com/watchdealer-pavel/deepl-mcp-server.git
     cd deepl-mcp-server
     ```
 
