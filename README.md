@@ -119,4 +119,4 @@ Once configured, you can invoke the server's tools from your AI assistant using 
 
 ## License
 
-License TBD. Consider using a permissive license like MIT.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
